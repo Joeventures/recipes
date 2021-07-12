@@ -1,4 +1,6 @@
-# Ingredients
+# Lemon Pan Seared Chicken
+
+## Ingredients
 
 * 2 Chicken Breasts
 * 1/2 Cup Flour
@@ -15,7 +17,7 @@
 * Lemon Juice for during cooking
 * Olive Oil and Butter for during cooking
 
-# Instructions
+## Instructions
 
 1. Flatten and paper towel dry the chicken.
 2. Prepare two large bowls:
