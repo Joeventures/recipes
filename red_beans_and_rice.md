@@ -46,3 +46,5 @@ Day 2:
 8. Add the drained beans, 5 cups of the stock, and the remaining seasoning mix. Stir and cook for 45 minutes, scraping the bottom of the pot occasionally to check for sticking. Add 1 cup grape juice and continue to cook for 25 minutes.
 CAUTION: At this point, the starches in the beans start to break down and sticking will occur more often. It is therefore important to check and clear the bottom of the pan frequently.
 9. Add the remaining stock and grape juice, turn the heat to medium, and cook until the beans are tender, and the liquid is thick and begins to look creamy, about 30-35 minutes. Serve over the rice.
+
+Credit to Chef Paul Prudhomme: "Not Yo' Mamma's Red Beans"
