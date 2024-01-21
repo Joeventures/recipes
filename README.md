@@ -9,5 +9,6 @@
 7. [Corned Beef and Cabbage](corned_beef_and_cabbage.md)
 8. [Corned Beef and Cabbage Shepherd's Pie](corned_beef_and_cabbage_shepherds_pie.md)
 9. [Breadded Pan Seared Chicken](lemon_pan_seared_chicken.md)
-10. [Red Beans and Rice](red_beans_and_rice.md)
-11. [Slow Cooker Apple Spice Cake](slow_cooker_apple_spice_cake.md)
+10. [Baked Honey Garlic Chicken Thighs](honey_garlic_chicken_thighs.md)
+11. [Red Beans and Rice](red_beans_and_rice.md)
+12. [Slow Cooker Apple Spice Cake](slow_cooker_apple_spice_cake.md)
