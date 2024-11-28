@@ -13,3 +13,4 @@
 11. [Baked Honey Garlic Chicken Thighs](honey_garlic_chicken_thighs.md)
 12. [Red Beans and Rice](red_beans_and_rice.md)
 13. [Slow Cooker Apple Spice Cake](slow_cooker_apple_spice_cake.md)
+14. [Chili - November 2024 Attempt](chili_november_2024.md)
