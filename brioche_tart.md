@@ -1,32 +1,32 @@
 [Nancy Silverton's Creme Fraiche Brioche Tart](https://www.thebutterlab.com/blog/briochetart)
 
-INGREDIENTS
+### INGREDIENTS
 BRIOCHE DOUGH
-1/3 cup warm-to-the-touch whole milk
-2 1/4 teaspoons active dry yeast
-5 large eggs, divided
-3 1/2 cups unbleached all-purpose flour, divided, plus more as needed
-1/3 cup sugar
-1 teaspoon salt
-6 ounces (1 1/2 stick) unsalted butter, at room temperature
+* 1/3 cup warm-to-the-touch whole milk
+* 2 1/4 teaspoons active dry yeast
+* 5 large eggs, divided
+* 3 1/2 cups unbleached all-purpose flour, divided, plus more as needed
+* 1/3 cup sugar
+* 1 teaspoon salt
+* 6 ounces (1 1/2 stick) unsalted butter, at room temperature
 
 CREME FRAICHE FILLING AND TART ASSEMBLY
-1 cup crème fraiche
-1 large egg
-1 large egg white, beaten
-1/3 to 1/2 cup sugar, plus more for sprinkling
+* 1 cup crème fraiche
+* 1 large egg
+* 1 large egg white, beaten
+* 1/3 to 1/2 cup sugar, plus more for sprinkling
 
 WHITE SECRET SAUCE (optional)
-1 1/2 cups sugar
-2 vanilla beans
-1/3 cup water
-2 1/4 cups dry white wine
-1 cup heavy cream
-4 large egg yolks
+* 1 1/2 cups sugar
+* 2 vanilla beans
+* 1/3 cup water
+* 2 1/4 cups dry white wine
+* 1 cup heavy cream
+* 4 large egg yolks
 
 TO FINISH
-Sliced stone-fruits (plums, peaches, nectarines, apricots, and/or berries)
-Sugar to taste (if using macerated fruit)
+* Sliced stone-fruits (plums, peaches, nectarines, apricots, and/or berries)
+* Sugar to taste (if using macerated fruit)
 
 METHOD
 
