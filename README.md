@@ -19,3 +19,4 @@
 17. [Weeknight Bolognese](weeknight_bolognese.md)
 18. [Roasted Cabbage with Capers and Garlic](roasted_cabbage.md)
 19. [Sweet Tea Brined Roast Chicken](sweet_tea_brined_roast_chicken.md)
+20. [Schmaltz Chicken Stir-Fry](schmaltz_chicken_stir_fry.md)
